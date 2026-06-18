@@ -1,3 +1,5 @@
+chips
+café
 fromage 
 chocolat
 michui
